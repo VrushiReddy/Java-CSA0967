@@ -1,0 +1,14 @@
+ class memory					
+{
+	public static void main(String arg[])
+	{
+		System.out.println(“size of byte” + Byte.SIZE/8 + “bytes”);
+System.out.println(“size of byte” + Short.SIZE/8 + “bytes”);
+System.out.println(“size of byte” + Integer.SIZE/8 + “bytes”);
+System.out.println(“size of byte” + Float.SIZE/8 + “bytes”);
+System.out.println(“size of byte” + Double.SIZE/8 + “bytes”);
+System.out.println(“size of byte” + String.SIZE/8 + “bytes”);
+System.out.println(“size of byte” + Boolean.SIZE/8 + “bytes”);
+
+	}
+}
